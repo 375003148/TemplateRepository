@@ -61,3 +61,8 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+
+
+# ---- ZZH：自己定义的部分 ----
+*.DS_Store
+*.xcuserstate
